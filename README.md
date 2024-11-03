@@ -39,3 +39,5 @@ Focus on High-Performing Segments: Increase marketing efforts and promotions tar
 
 **Conclusion**
 The Superstore Sales Dashboard offers valuable insights that can significantly influence business strategy and operational efficiency. By leveraging this analysis, stakeholders can make informed decisions that drive growth and enhance profitability. This project exemplifies the role of data analysis in uncovering actionable insights for business improvement.
+
+![Sales Dashboard](https://github.com/ChiomaB/Excel-Dashboard---Superstore-Sales/blob/main/Sales_Analysis.png)
